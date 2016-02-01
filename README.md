@@ -1,6 +1,20 @@
 # homebrew-tap
 
-## How do I install these formulae?
+## Formulas
+
+### ffscreencast
+```shell
+$ brew install cytopia/tap/ffscreencast
+```
+
+### mysqldump-secure
+```shell
+$ brew install cytopia/tap/mysqldump-secure
+```
+
+
+## General
+### How do I install these formulae?
 
 ```shell
 brew install cytopia/tap/<formula>
@@ -11,7 +25,7 @@ brew tap cytopia/tap
 brew install <formula>
 ```
 
-## Documentation
+### Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://github.com/Homebrew/homebrew/tree/master/share/doc/homebrew#readme).
 
