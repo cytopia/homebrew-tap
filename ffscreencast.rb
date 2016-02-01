@@ -3,6 +3,7 @@ class Ffscreencast < Formula
   homepage "https://github.com/cytopia/ffscreencast"
   url "https://github.com/cytopia/ffscreencast/archive/v0.6.tar.gz"
   sha256 "1d55d652347b26cb3b1a15398704cb4d82a3a996dcd967643ffa44347b431e81"
+  head "https://github.com/cytopia/ffscreencast.git"
 
   depends_on "ffmpeg" => [
     "with-x265",
