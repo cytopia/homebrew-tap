@@ -1,8 +1,8 @@
 class MysqldumpSecure < Formula
   desc "Encrypted mysqldump with compression and logging"
   homepage "http://mysqldump-secure.org"
-  url "https://github.com/cytopia/mysqldump-secure/archive/0.16.tar.gz"
-  sha256 "38c2c2fed056be16f141b6c16a4463632d1f0b39ce2a6d7359745ad100e3e3c9"
+  url "https://github.com/cytopia/mysqldump-secure/archive/0.16.1.tar.gz"
+  sha256 "2a8d1af508d51ff7be0ff61f9418caa14b83546b7746406877fda68ee3722947"
   head "https://github.com/cytopia/mysqldump-secure.git"
 
   def install
