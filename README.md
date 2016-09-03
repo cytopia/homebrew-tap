@@ -2,6 +2,11 @@
 
 ## Formulas
 
+### awesome-ci
+```shell
+$ brew install cytopia/tap/awesome-ci
+```
+
 ### ffscreencast
 ```shell
 $ brew install cytopia/tap/ffscreencast
@@ -11,6 +16,7 @@ $ brew install cytopia/tap/ffscreencast
 ```shell
 $ brew install cytopia/tap/mysqldump-secure
 ```
+
 
 
 ## General
