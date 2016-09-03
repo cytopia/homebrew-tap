@@ -10,7 +10,7 @@ class AwesomeCi < Formula
            ]
 
     system "./configure", *args
-    system "make", "reinstall"
+    system "make", "install"
   end
 
   test do
