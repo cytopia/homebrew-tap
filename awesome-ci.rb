@@ -1,8 +1,8 @@
 class AwesomeCi < Formula
   desc "Tools for git, file and static source code analysis."
   homepage "https://github.com/cytopia/awesome-ci"
-  url "https://github.com/cytopia/awesome-ci/archive/v0.1.tar.gz"
-  sha256 "bc869a94749ba34180c862885e38393666e6a07a379d5c9d6377fe118f97c2dc"
+  url "https://github.com/cytopia/awesome-ci/archive/0.2.tar.gz"
+  sha256 "e4b526ec57ef072f64b06a28318c3f8b8e679679f7456172f7a7a9e0d6f7ebbf"
   head "https://github.com/cytopia/awesome-ci.git"
 
   def install
